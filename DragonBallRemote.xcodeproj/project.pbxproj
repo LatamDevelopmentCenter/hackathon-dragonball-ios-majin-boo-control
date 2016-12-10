@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E34934B4DD163FAFB7B7FF3 /* Pods_DragonBallRemoteUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF6C40304E5F89B0F7D3867E /* Pods_DragonBallRemoteUITests.framework */; };
+		57EC3B3FA5E4B15D8F4C2DA7 /* Pods_DragonBallRemoteTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B82F11C6AE32878DEA4151C0 /* Pods_DragonBallRemoteTests.framework */; };
+		77B69DEAE4544B5CF563B78D /* Pods_DragonBallRemote.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B933AA33FF1CC42D65511C91 /* Pods_DragonBallRemote.framework */; };
 		9D6376B51DFB8B6000B0F3A6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6376B41DFB8B6000B0F3A6 /* AppDelegate.swift */; };
 		9D6376B71DFB8B6000B0F3A6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6376B61DFB8B6000B0F3A6 /* ViewController.swift */; };
 		9D6376BA1DFB8B6000B0F3A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D6376B81DFB8B6000B0F3A6 /* Main.storyboard */; };
@@ -34,6 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		15EFAC45B09DCA145C10431C /* Pods-DragonBallRemoteUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DragonBallRemoteUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-DragonBallRemoteUITests/Pods-DragonBallRemoteUITests.release.xcconfig"; sourceTree = "<group>"; };
+		494CD535799B2A38456568EF /* Pods-DragonBallRemoteUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DragonBallRemoteUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DragonBallRemoteUITests/Pods-DragonBallRemoteUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		4DF1119B8D3F7B7EC14EA571 /* Pods-DragonBallRemoteTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DragonBallRemoteTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-DragonBallRemoteTests/Pods-DragonBallRemoteTests.release.xcconfig"; sourceTree = "<group>"; };
+		7F8289CB001E841C4C8D2E01 /* Pods-DragonBallRemote.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DragonBallRemote.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DragonBallRemote/Pods-DragonBallRemote.debug.xcconfig"; sourceTree = "<group>"; };
 		9D6376B11DFB8B6000B0F3A6 /* DragonBallRemote.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DragonBallRemote.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D6376B41DFB8B6000B0F3A6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9D6376B61DFB8B6000B0F3A6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +54,11 @@
 		9D6376D01DFB8B6000B0F3A6 /* DragonBallRemoteUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DragonBallRemoteUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D6376D41DFB8B6000B0F3A6 /* DragonBallRemoteUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragonBallRemoteUITests.swift; sourceTree = "<group>"; };
 		9D6376D61DFB8B6000B0F3A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B82F11C6AE32878DEA4151C0 /* Pods_DragonBallRemoteTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DragonBallRemoteTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B933AA33FF1CC42D65511C91 /* Pods_DragonBallRemote.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DragonBallRemote.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE5603F2422F20868B279DE4 /* Pods-DragonBallRemote.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DragonBallRemote.release.xcconfig"; path = "Pods/Target Support Files/Pods-DragonBallRemote/Pods-DragonBallRemote.release.xcconfig"; sourceTree = "<group>"; };
+		BF6C40304E5F89B0F7D3867E /* Pods_DragonBallRemoteUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DragonBallRemoteUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C7D423811FB170ACCB81C99A /* Pods-DragonBallRemoteTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DragonBallRemoteTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DragonBallRemoteTests/Pods-DragonBallRemoteTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77B69DEAE4544B5CF563B78D /* Pods_DragonBallRemote.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57EC3B3FA5E4B15D8F4C2DA7 /* Pods_DragonBallRemoteTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +82,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E34934B4DD163FAFB7B7FF3 /* Pods_DragonBallRemoteUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		10163D6F6C686256FB3DFCFF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B933AA33FF1CC42D65511C91 /* Pods_DragonBallRemote.framework */,
+				B82F11C6AE32878DEA4151C0 /* Pods_DragonBallRemoteTests.framework */,
+				BF6C40304E5F89B0F7D3867E /* Pods_DragonBallRemoteUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3B1DA27E2E90636BA0A28343 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				7F8289CB001E841C4C8D2E01 /* Pods-DragonBallRemote.debug.xcconfig */,
+				BE5603F2422F20868B279DE4 /* Pods-DragonBallRemote.release.xcconfig */,
+				C7D423811FB170ACCB81C99A /* Pods-DragonBallRemoteTests.debug.xcconfig */,
+				4DF1119B8D3F7B7EC14EA571 /* Pods-DragonBallRemoteTests.release.xcconfig */,
+				494CD535799B2A38456568EF /* Pods-DragonBallRemoteUITests.debug.xcconfig */,
+				15EFAC45B09DCA145C10431C /* Pods-DragonBallRemoteUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		9D6376A81DFB8B5F00B0F3A6 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +119,8 @@
 				9D6376C81DFB8B6000B0F3A6 /* DragonBallRemoteTests */,
 				9D6376D31DFB8B6000B0F3A6 /* DragonBallRemoteUITests */,
 				9D6376B21DFB8B6000B0F3A6 /* Products */,
+				3B1DA27E2E90636BA0A28343 /* Pods */,
+				10163D6F6C686256FB3DFCFF /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -132,9 +172,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9D6376D91DFB8B6000B0F3A6 /* Build configuration list for PBXNativeTarget "DragonBallRemote" */;
 			buildPhases = (
+				D547F4232784C2A34B55CB22 /* [CP] Check Pods Manifest.lock */,
 				9D6376AD1DFB8B5F00B0F3A6 /* Sources */,
 				9D6376AE1DFB8B5F00B0F3A6 /* Frameworks */,
 				9D6376AF1DFB8B5F00B0F3A6 /* Resources */,
+				F40360FC4D6A96BA0D767BD1 /* [CP] Embed Pods Frameworks */,
+				B2303B25396D0EFDA851A978 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -149,9 +192,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9D6376DC1DFB8B6000B0F3A6 /* Build configuration list for PBXNativeTarget "DragonBallRemoteTests" */;
 			buildPhases = (
+				B6B3A672DAD5E9FA22F45993 /* [CP] Check Pods Manifest.lock */,
 				9D6376C11DFB8B6000B0F3A6 /* Sources */,
 				9D6376C21DFB8B6000B0F3A6 /* Frameworks */,
 				9D6376C31DFB8B6000B0F3A6 /* Resources */,
+				07F016318C3D243DC8441242 /* [CP] Embed Pods Frameworks */,
+				3AB1229D575A5D5E9EF7B87B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -167,9 +213,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9D6376DF1DFB8B6000B0F3A6 /* Build configuration list for PBXNativeTarget "DragonBallRemoteUITests" */;
 			buildPhases = (
+				53D04EE2BDFBDF3AE8A23AAC /* [CP] Check Pods Manifest.lock */,
 				9D6376CC1DFB8B6000B0F3A6 /* Sources */,
 				9D6376CD1DFB8B6000B0F3A6 /* Frameworks */,
 				9D6376CE1DFB8B6000B0F3A6 /* Resources */,
+				57DAD40DBF2FDA99C92DA280 /* [CP] Embed Pods Frameworks */,
+				5C5D696F9BF9FE9D4EABB15E /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -256,6 +305,144 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		07F016318C3D243DC8441242 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DragonBallRemoteTests/Pods-DragonBallRemoteTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3AB1229D575A5D5E9EF7B87B /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DragonBallRemoteTests/Pods-DragonBallRemoteTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		53D04EE2BDFBDF3AE8A23AAC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		57DAD40DBF2FDA99C92DA280 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DragonBallRemoteUITests/Pods-DragonBallRemoteUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5C5D696F9BF9FE9D4EABB15E /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DragonBallRemoteUITests/Pods-DragonBallRemoteUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B2303B25396D0EFDA851A978 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DragonBallRemote/Pods-DragonBallRemote-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B6B3A672DAD5E9FA22F45993 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D547F4232784C2A34B55CB22 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		F40360FC4D6A96BA0D767BD1 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DragonBallRemote/Pods-DragonBallRemote-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		9D6376AD1DFB8B5F00B0F3A6 /* Sources */ = {
@@ -411,6 +598,7 @@
 		};
 		9D6376DA1DFB8B6000B0F3A6 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7F8289CB001E841C4C8D2E01 /* Pods-DragonBallRemote.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = WVK47D2626;
@@ -424,6 +612,7 @@
 		};
 		9D6376DB1DFB8B6000B0F3A6 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BE5603F2422F20868B279DE4 /* Pods-DragonBallRemote.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = WVK47D2626;
@@ -437,6 +626,7 @@
 		};
 		9D6376DD1DFB8B6000B0F3A6 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C7D423811FB170ACCB81C99A /* Pods-DragonBallRemoteTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -452,6 +642,7 @@
 		};
 		9D6376DE1DFB8B6000B0F3A6 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4DF1119B8D3F7B7EC14EA571 /* Pods-DragonBallRemoteTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -467,6 +658,7 @@
 		};
 		9D6376E01DFB8B6000B0F3A6 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 494CD535799B2A38456568EF /* Pods-DragonBallRemoteUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = WVK47D2626;
@@ -481,6 +673,7 @@
 		};
 		9D6376E11DFB8B6000B0F3A6 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 15EFAC45B09DCA145C10431C /* Pods-DragonBallRemoteUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = WVK47D2626;
@@ -512,6 +705,7 @@
 				9D6376DB1DFB8B6000B0F3A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D6376DC1DFB8B6000B0F3A6 /* Build configuration list for PBXNativeTarget "DragonBallRemoteTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +714,7 @@
 				9D6376DE1DFB8B6000B0F3A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D6376DF1DFB8B6000B0F3A6 /* Build configuration list for PBXNativeTarget "DragonBallRemoteUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +723,7 @@
 				9D6376E11DFB8B6000B0F3A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

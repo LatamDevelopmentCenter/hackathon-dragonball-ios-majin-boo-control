@@ -1,0 +1,6 @@
+framework module Pods_DragonBallRemoteTests {
+  umbrella header "Pods-DragonBallRemoteTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

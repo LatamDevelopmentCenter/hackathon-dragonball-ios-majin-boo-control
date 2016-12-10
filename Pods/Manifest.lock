@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.2.0)
+  - CircleSlider (0.5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - CircleSlider
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  CircleSlider: c6eca7297b40e3a638395a938d1b16b8c4710821
+
+PODFILE CHECKSUM: ede683c98b29ba113ec1e58077081948a8244907
+
+COCOAPODS: 1.1.1
